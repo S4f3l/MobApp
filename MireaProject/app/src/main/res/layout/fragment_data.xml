@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ИНФОРМАЦИОННЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#2196F3"
+            android:gravity="center"
+            android:padding="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="О ПРОФЕССИИ"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:padding="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Специалист в области информационных систем занимается разработкой, внедрением и сопровождением информационных систем."
+            android:textSize="14sp"
+            android:padding="8dp"
+            android:background="#FFFFFF"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="КЛЮЧЕВЫЕ НАВЫКИ"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:padding="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• Java / Kotlin\n• Разработка Android\n• Python\n• SQL\n• Git"
+            android:textSize="14sp"
+            android:padding="8dp"
+            android:background="#FFFFFF"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="КАРЬЕРНЫЕ ПЕРСПЕКТИВЫ"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:padding="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• Android Developer\n• Backend Developer\n• System Analyst"
+            android:textSize="14sp"
+            android:padding="8dp"
+            android:background="#FFFFFF" />
+
+    </LinearLayout>
+</ScrollView>
