@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etBook"
+        android:layout_width="match_parent"
+        android:layout_height="81dp"
+        android:layout_marginBottom="16dp"
+        android:hint="Введите название любимой книги" />
+
+    <EditText
+        android:id="@+id/etQuote"
+        android:layout_width="369dp"
+        android:layout_height="70dp"
+        android:layout_marginBottom="32dp"
+        android:hint="Введите цитату" />
+
+    <Button
+        android:id="@+id/btnSend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Отправить"/>
+
+</LinearLayout>
