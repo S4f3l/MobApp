@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mirea.manilovla.data_thread-mergeDebugResources-33:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\leoni\\.gradle\\caches\\9.2.1\\transforms\\83c951d89cb90435255a3df0e2f2c021\\workspace\\transformed\\appcompat-1.7.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

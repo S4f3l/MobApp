@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\leoni\\.gradle\\daemon\\9.2.1\\com.mirea.manilovla.cryptoloader-mergeDebugResources-33:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\leoni\\.gradle\\daemon\\9.2.1\\com.mirea.manilovla.cryptoloader-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.mirea.manilovla.cryptoloader-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.mirea.manilovla.cryptoloader-main-36:/layout/activity_main.xml"
+    }
+]
